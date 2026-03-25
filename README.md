@@ -12,3 +12,7 @@ This repository will track my AWS DevOps learning, notes, and capstone progress.
 
 ## Study Plan
 This repository will grow week by week as I practice DevOps topics.
+
+
+## Tools
+Git Bash, VS Code, GitHub, AWS, Terraform.
