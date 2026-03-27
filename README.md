@@ -16,3 +16,13 @@ This repository will grow week by week as I practice DevOps topics.
 
 ## Tools
 Git Bash, VS Code, GitHub, AWS, Terraform.
+
+
+## Architecture
+This capstone will grow into a simple AWS DevOps project with source control, infrastructure, deployment workflow, and operating notes.
+
+## Rules
+- Keep commits small and meaningful
+- Write notes after each study session
+- Prefer hands-on practice over passive reading
+- Review mistakes and fix weak areas weekly
